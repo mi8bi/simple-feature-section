@@ -12,12 +12,15 @@
       Demo
     </a>
     <span> | </span>
-    <a href="{https://your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solution/46059">
       Solution
     </a>
     <span> | </span>
     <a href="https://devchallenges.io/challenge/simple-feature-section-challenge">
       Challenge
+    </a>
+    <a href="https://devchallenges.io/solution/46059/submit/complete">
+      Complete
     </a>
   </h3>
 </div>
